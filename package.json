@@ -1,0 +1,20 @@
+{
+  "name": "koishi-plugin-fei-nin",
+  "description": "把回复变礼貌...了吗？",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.17.5"
+  }
+}
